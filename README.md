@@ -1,11 +1,11 @@
-### WebDesignFinalProject
+# WebDesignFinalProject
 
 Boston Odyssey is an online website which is focused on helping the users find places to stay at while they travel to a new place. It filters the places based on the user requests and finds a best place to book in the span of seconds. It is basically a one stop destination to plan out the whole vacation with the best deals.
  
-# STRIPE Payment API: Payment processing platform to accept credit card, debit card and manage subscriptions.
-# Cloudflare API : Used to store, retrive and maintain all the images used in the project.
-# MongoDB Database: To Manage database for different hotels, different places, number of users and admins.
-# Postman API: Used to write functional tests and send API requests.
+#### STRIPE Payment API: Payment processing platform to accept credit card, debit card and manage subscriptions.
+#### Cloudflare API : Used to store, retrive and maintain all the images used in the project.
+#### MongoDB Database: To Manage database for different hotels, different places, number of users and admins.
+#### Postman API: Used to write functional tests and send API requests.
 
 
 Implemented the following components in the project:- 
